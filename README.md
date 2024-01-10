@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yagho
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript/ c#
 - 📫 How to reach me:👉
   Email: yagho.chinaglia@etec.sp.gov.br
 
